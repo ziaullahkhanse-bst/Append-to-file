@@ -1,7 +1,5 @@
-# Ask for filename
 a = input("Enter a fileName: ")
 
-# Ask for text to add
 b = input("Enter a text to add: ")
 
 # Open file in append mode
